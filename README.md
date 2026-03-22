@@ -71,22 +71,13 @@ The first thing a user sees matters enormously for a mental health product. I ch
 ## Setup & Local Development
 
 ```bash
-git clone https://github.com/your-username/mindbridge
+git clone https://github.com/biswajitkabi/mindbridge
 cd mindbridge
 npm install
 npm start
 ```
 
 The app calls the Anthropic API directly from the browser. For production, you should proxy this through a backend to protect your API key.
-
----
-
-## Deployment on Vercel
-
-1. Push to GitHub
-2. Import repo on [vercel.com](https://vercel.com)
-3. No environment variables needed (API key is handled by Anthropic's CORS policy for claude.ai-hosted apps)
-4. Deploy — done.
 
 ---
 
