@@ -2,7 +2,7 @@
 
 > A calm space for the hard moments.
 
-**Live Demo:** [your-vercel-url.vercel.app](https://mindbridge-murex.vercel.app/)
+**Live Demo:** [https://mindbridge-murex.vercel.app/](https://mindbridge-murex.vercel.app/)
 
 ---
 
